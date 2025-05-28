@@ -42,7 +42,15 @@
 
 ---
 
-> _"El único modo de hacer un gran trabajo es amar lo que haces."_ – Steve Jobs
- Hi there 👋
+
+## 🎯 Hobbies e intereses
+
+- 🎮 Videojuegos
+- 📚 Manga , Anime , Geek
+- 🎵 Escuchar música
+- 🚴‍♂️ Andar en bicicleta
+- 🧩 Resolver acertijos y retos de lógica
+- 🌍 Aprender sobre nuevas culturas y lenguajes
+
 
 
